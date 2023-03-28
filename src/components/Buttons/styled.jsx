@@ -1,0 +1,3 @@
+const DefaultButton = styled.button`
+    
+`
