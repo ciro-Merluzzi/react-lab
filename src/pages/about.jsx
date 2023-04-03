@@ -6,6 +6,8 @@ export const About = () => {
         <>
         <h1>About this laboratory...</h1>
         <DefaultButton text={'Button'}/>
+        <br />
+        <h2>Generic commentary</h2>
         </>
     )
 }
