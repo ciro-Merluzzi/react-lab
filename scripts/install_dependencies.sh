@@ -1,2 +1,3 @@
 #!/bin/bash
-$(which npm) install -g serve 
+nvm use 16
+npm install -g serve 
