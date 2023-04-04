@@ -12,6 +12,7 @@ phases:
 
 artifacts:
   files:
-    - '**/*'
+    - 'build/**'
+    - '*.yml'
   base-directory: '/'
   name: 'react-lab-build-$(date +%Y-%m-%d)'
