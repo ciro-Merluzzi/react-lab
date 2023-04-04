@@ -12,7 +12,6 @@ phases:
 
 artifacts:
   files:
-    - 'build/**'
-    - 'build/static/**'
+    - 'build/**/*'
     - 'appspec.yml'
   name: 'react-lab-build-$(date +%Y-%m-%d)'
