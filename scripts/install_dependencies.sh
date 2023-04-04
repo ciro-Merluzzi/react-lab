@@ -1,2 +1,2 @@
 #!/bin/bash
-npm install -g serve 
+sudo npm install -g serve 
