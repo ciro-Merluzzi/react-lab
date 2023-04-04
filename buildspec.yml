@@ -9,6 +9,7 @@ phases:
   build:
     commands:
       - npm run build
+      - mv appspec.yml /build
 
 artifacts:
   files:
