@@ -1,2 +1,2 @@
 #!/bin/bash
-npm install -g serve 
+$(which npm) install -g serve 

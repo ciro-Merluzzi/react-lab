@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo serve -s /var/www/html/
+serve -s /var/www/html/
