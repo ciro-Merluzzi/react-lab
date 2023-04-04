@@ -1,2 +1,2 @@
 #!/bin/bash
-serve build
+serve -s /var/www/html/
