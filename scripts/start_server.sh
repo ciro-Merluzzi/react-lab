@@ -7,4 +7,4 @@ set -x // Debug mode
 # tá funcionando
 
 #npm install serve
-serve -s /var/www/html/
+/root/.nvm/versions/node/v16.20.0/bin/serve -s /var/www/html/
