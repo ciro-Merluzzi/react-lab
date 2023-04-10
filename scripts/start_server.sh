@@ -8,4 +8,6 @@ set -x // Debug mode
 
 #npm install serve
 
-serve -s /var/www/html/
+#serve -s /var/www/html/
+
+echo 'omg'
