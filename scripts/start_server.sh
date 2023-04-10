@@ -7,4 +7,5 @@
 # tá funcionando
 
 #npm install serve
-/root/.nvm/versions/node/v16.20.0/bin/serve -s /var/www/html/
+PATH=$PATH:/root/.nvm/versions/node/v16.20.0/bin/serve
+serve -s /var/www/html/
