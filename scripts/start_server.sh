@@ -7,4 +7,4 @@
 # tá funcionando
 
 #npm install serve
-serve -s /var/www/html/
+$(which serve) -s /var/www/html/
