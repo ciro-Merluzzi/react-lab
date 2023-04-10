@@ -7,4 +7,5 @@ set -x // Debug mode
 # tá funcionando
 
 #npm install serve
-/root/.nvm/versions/node/v16.20.0/bin/serve -s /var/www/html/
+export PATH=$PATH:/root/.nvm/versions/node/v16.20.0/bin
+serve -s /var/www/html/
